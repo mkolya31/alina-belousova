@@ -18,6 +18,11 @@ export function FilmingStylization() {
             }}
         >
             <Typography
+                variant="h1"
+            >
+                Чем я занимаюсь:
+            </Typography>
+            <Typography
                 variant="h2"
             >
                 Услуги стилизации съёмок
