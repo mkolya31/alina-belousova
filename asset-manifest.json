@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/alina-belousova/static/css/main.b1480cc0.chunk.css",
-    "main.js": "/alina-belousova/static/js/main.b857f379.chunk.js",
-    "main.js.map": "/alina-belousova/static/js/main.b857f379.chunk.js.map",
+    "main.js": "/alina-belousova/static/js/main.fe69349e.chunk.js",
+    "main.js.map": "/alina-belousova/static/js/main.fe69349e.chunk.js.map",
     "runtime-main.js": "/alina-belousova/static/js/runtime-main.05049d3a.js",
     "runtime-main.js.map": "/alina-belousova/static/js/runtime-main.05049d3a.js.map",
     "static/js/2.33797e3a.chunk.js": "/alina-belousova/static/js/2.33797e3a.chunk.js",
@@ -21,6 +21,6 @@
     "static/js/runtime-main.05049d3a.js",
     "static/js/2.33797e3a.chunk.js",
     "static/css/main.b1480cc0.chunk.css",
-    "static/js/main.b857f379.chunk.js"
+    "static/js/main.fe69349e.chunk.js"
   ]
 }
